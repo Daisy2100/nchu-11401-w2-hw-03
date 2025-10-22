@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": "nchu-spam-classification",
+  "description": "Email/SMS Spam Classification using Machine Learning with OpenSpec workflow",
+  "projectRoot": ".",
+  "specsDir": "openspec/specs",
+  "changesDir": "openspec/changes",
+  "archiveDir": "openspec/changes/archive"
+}
