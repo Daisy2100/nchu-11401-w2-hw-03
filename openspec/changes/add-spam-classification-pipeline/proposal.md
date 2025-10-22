@@ -18,7 +18,7 @@ Build a complete machine learning pipeline for email spam classification to fulf
   - New: `src/preprocessing.py`, `src/models.py`, `src/evaluation.py`
   - New: `src/cli.py`, `app.py` (Streamlit)
   - New: `config/config.yaml`, `requirements.txt`, `README.md`
-- Deployment: Streamlit Cloud at https://2025spamemail.streamlit.app/
+- Deployment: Streamlit Cloud at https://nchu-11401-w2-hw-03-6t6om5uwkkdepcvtibzomu.streamlit.app/
 
 ## Success Criteria
 - [ ] Model achieves >95% accuracy on test set

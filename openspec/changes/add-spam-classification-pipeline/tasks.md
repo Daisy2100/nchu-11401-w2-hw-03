@@ -7,7 +7,7 @@
 - [x] 1.4 Create README.md with project overview
 
 ## 2. Data Preprocessing
-- [ ] 2.1 Download and place dataset (sms_spam_no_header.csv)
+- [x] 2.1 Download and place dataset (sms_spam_no_header.csv)
 - [x] 2.2 Implement text cleaning function (lowercase, punctuation removal)
 - [x] 2.3 Add tokenization and stopwords removal
 - [x] 2.4 Implement TF-IDF vectorization
@@ -43,14 +43,14 @@
 - [x] 6.6 Add example messages
 
 ## 7. Deployment
-- [ ] 7.1 Create Streamlit configuration files
-- [ ] 7.2 Test locally with streamlit run
-- [ ] 7.3 Deploy to Streamlit Cloud
-- [ ] 7.4 Verify deployment at https://2025spamemail.streamlit.app/
+- [x] 7.1 Create Streamlit configuration files
+- [x] 7.2 Test locally with streamlit run
+- [x] 7.3 Deploy to Streamlit Cloud
+- [x] 7.4 Verify deployment at https://nchu-11401-w2-hw-03-6t6om5uwkkdepcvtibzomu.streamlit.app/
 
 ## 8. Documentation
 - [x] 8.1 Write comprehensive README
 - [x] 8.2 Add code comments and docstrings
-- [ ] 8.3 Create setup instructions
+- [x] 8.3 Create setup instructions
 - [ ] 8.4 Document model performance
 - [ ] 8.5 Add usage examples

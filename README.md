@@ -93,7 +93,7 @@ Then open your browser to `http://localhost:8501`
 
 ## 🌐 Demo
 
-Live demo: [https://2025spamemail.streamlit.app/](https://2025spamemail.streamlit.app/)
+Live demo: [https://nchu-11401-w2-hw-03-6t6om5uwkkdepcvtibzomu.streamlit.app/](https://nchu-11401-w2-hw-03-6t6om5uwkkdepcvtibzomu.streamlit.app/)
 
 ## 📚 Dataset
 

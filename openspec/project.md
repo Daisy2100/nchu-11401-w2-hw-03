@@ -76,7 +76,7 @@ Email/SMS Spam Classification project for NCHU "IoT Applications and Data Analys
 - **Deadline**: 2025-11-05 23:59
 - **Required Tools**: Must use OpenSpec and AI CLI for development
 - **GitHub Repository**: <https://github.com/huanchen1107/2025ML-spamEmail>
-- **Demo Site**: <https://2025spamemail.streamlit.app/>
+- **Demo Site**: <https://nchu-11401-w2-hw-03-6t6om5uwkkdepcvtibzomu.streamlit.app/>
 - **Deployment**: Must have working Streamlit demo accessible online
 
 ## External Dependencies
