@@ -1,29 +1,18 @@
-教學 https://www.youtube.com/watch?v=FeCCYFK0TJ8&list=PLYlM4-ln5HcCoM_TcLKGL5NcOpNVJ3g7c
-Source Reference
+1. 教學 https://www.youtube.com/watch?v=FeCCYFK0TJ8&list=PLYlM4-ln5HcCoM_TcLKGL5NcOpNVJ3g7c
+2, Source Reference
 This project builds upon patterns and datasets related to the Spam Email problem from Chapter 3 of the Packt repository below. We used it to expand the preprocessing steps and add richer visualization work (step outputs, metrics, and CLI/Streamlit views).
 https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Cybersecurity.git
 Using openspec and AI coding CLI to finish this project
-===
-requirements 
+===requirements ====
 1. need a github 
 https://github.com/huanchen1107/2025ML-spamEmail
 2. need a Demo site 
 https://2025spamemail.streamlit.app/
  
- 
 tutorial 
 https://www.youtube.com/watch?v=ANjiJQQIBo0
 
  
-1. Populate your project context:
-   "Please read openspec/project.md and help me fill it out   
-    with details about my project, tech stack, and conventions"
-2. Create your first change proposal:
-   "I want to add [YOUR FEATURE HERE]. Please create an       
-    OpenSpec change proposal for this feature"
-3. Learn the OpenSpec workflow:
-   "Please explain the OpenSpec workflow from openspec/AGENTS.md
-    and how I should work with you on this project"
   
  
 =========
